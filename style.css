@@ -69,27 +69,27 @@ nav.top li.logo{
 	padding-bottom: 250px;
 }
 .header-home{
-	background: url(../img/home-bg1.jpg);
+	background: url(img/home-bg1.jpg);
 	background-size: cover;
 	background-position: center top;	
 }
 .header-contact{
-	background: url(../img/contact-bg1.jpg);
+	background: url(img/contact-bg1.jpg);
 	background-size: cover;
 	background-position: center top;
 }
 .header-about{
-	background: url(../img/about-bg1.jpg);
+	background: url(img/about-bg1.jpg);
 	background-size: cover;
 	background-position: center top;
 }
 .header-dive{
-	background: url(../img/deeperdive-bg1.jpg);
+	background: url(img/deeperdive-bg1.jpg);
 	background-size: cover;
 	background-position: center top;
 }
 .header-services{
-	background: url(../img/svc-bg1.jpg);
+	background: url(img/svc-bg1.jpg);
 	background-size: cover;
 	background-position: center top;
 }
@@ -237,7 +237,7 @@ img.style-1{
 }
 .strive:before{
 	content: "";
-	background: url(../img/home-bg2.jpg);
+	background: url(img/home-bg2.jpg);
 	height: 100%;
 	width: calc(50% - 390px);
 	position: absolute;
@@ -325,7 +325,7 @@ img.style-1{
 }
 .choose:before{
 	content: "";
-	background: url(../img/home-bg3.jpg);
+	background: url(img/home-bg3.jpg);
 	height: 100%;
 	width: calc(50% - 390px);
 	position: absolute;
@@ -337,7 +337,7 @@ img.style-1{
 }
 .choose .row > .col-2:nth-child(2):before{
 	content: "";
-	background: url(../img/home-icon1.jpg);
+	background: url(img/home-icon1.jpg);
 	width: 60px;
 	height: 60px;
 	position: absolute;
@@ -415,7 +415,7 @@ p.type-2{
 }
 .about:before{
 	content: "";
-	background: url(../img/home-bg2.jpg);
+	background: url(img/home-bg2.jpg);
 	height: 100%;
 	width: calc(50% - 390px);
     max-width: 100%;
@@ -492,7 +492,7 @@ p.type-2{
 }
 .contact-wrap:before{
 	content: "";
-	background: url(../img/svc-bg2.jpg);
+	background: url(img/svc-bg2.jpg);
 	height: 100%;
 	width: calc(50% - 390px);
 	position: absolute;
@@ -569,7 +569,7 @@ p.type-2{
 
 .service {
 	padding: var(--innerPadding);
-	background: url(../img/svc-bg2.jpg);
+	background: url(img/svc-bg2.jpg);
 	background-size: cover;
 }
 
